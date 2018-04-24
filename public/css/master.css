@@ -1,0 +1,12 @@
+table thead tr th{
+	text-align: center;
+}
+#dataTables-example_filter label{
+	display: none;
+}
+form button{
+	margin-bottom: 20px !important;
+}
+li.sidebar-search{
+    display: none;
+}	
